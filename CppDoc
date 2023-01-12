@@ -1,0 +1,11 @@
+Language : C++
+
+#Do's
+- long and easy to understand code is better than short and hard to understand code.
+- If nested functions/loops give a comment on end to increase understandability
+
+#Dont's
+- Dont use multiple inheritance
+- Dont pass too many parameters into a function
+- always return something from a function
+- dont write empty function
